@@ -1,0 +1,2 @@
+APP_NAME = "Products API"
+APP_VERSION = "1.0"
